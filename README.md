@@ -1,7 +1,7 @@
 # Learn Docosaurus
 
 
-- [ ]  Pages
+- [x]  Pages
   - [x]  Homepage
   - [x]  Introduction
     - [x]  Getting Started
@@ -9,4 +9,4 @@
   - [x]  Configuration
   - [x]  Plugins
 - [x]  Multi Versioning
-- [ ]  Algolia Search
+- [x]  Algolia Search
